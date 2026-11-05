@@ -1,9 +1,8 @@
 cask "studio@beta" do
-  version "0.1.0-beta.4"
-  sha256 "45b689dc1831e7b01e0d640b3003623be8bf48e47542a1e2ff5c02009e22317c"
+  version "0.1.0-beta.5"
+  sha256 "0270afc5148e516ccf5773a3114ca5d0b7a1cb30ee0c4d3054673dc3b140a28b"
 
-  url "https://github.com/simplymate/studio/releases/download/desktop-v#{version}/Simplymate-Studio_#{version}_universal.dmg",
-      verified: "github.com/simplymate/studio/"
+  url "https://github.com/simplymate/studio/releases/download/desktop-v#{version}/Simplymate-Studio_#{version}_universal.dmg"
   name "Simplymate Studio"
   desc "Data protection workspace for firms (beta channel)"
   homepage "https://simplymate.com/"
