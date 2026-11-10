@@ -1,6 +1,6 @@
 cask "studio@beta" do
-  version "0.1.0-beta.15"
-  sha256 "103237e5c5413de930f0960aa5bddffc25ef42ff4a8f0fdd80b659e20377fc3d"
+  version "0.1.0-beta.16"
+  sha256 "c073b1d551686189e73a084f11faae8fa58181bc9a3de7ab4347748b68582903"
 
   url "https://github.com/simplymate/studio/releases/download/desktop-v#{version}/Simplymate-Studio_#{version}_universal.dmg"
   name "Simplymate Studio"
